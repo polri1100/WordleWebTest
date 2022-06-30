@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
     
     let word = 'dairy';
     let guessedWordsCount = 0;
-    const words = ["sweet", "onion", "shoes", "heavy", "couch"]
 
     const keys = document.querySelectorAll('.keyboard-row button');
 
